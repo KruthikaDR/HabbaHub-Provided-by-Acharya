@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HabbaHub - College Event Management System
 
 <div align="center">
@@ -216,3 +217,7 @@ HabbaHub/
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# HabbaHub-Provided-by-Acharya
+A web-based platform designed to simplify campus event management by enabling admins, organizers, and participants to collaborate seamlessly. Built with React.js, NestJS, and MongoDB, the system supports secure login, real-time updates using Socket.IO, task tracking, announcements, and report generation.
+>>>>>>> 7c71227e48e26592a670762045ba74faf01c3a73
