@@ -2,7 +2,7 @@
 # HabbaHub - College Event Management System
 
 <div align="center">
-  <img src="frontend/public/logo3.jpg" alt="HabbaHub Logo" width="800" />
+  <img src="frontend/public/simba.png" alt="HabbaHub Logo" width="800" />
 </div>
 
 ## Overview
