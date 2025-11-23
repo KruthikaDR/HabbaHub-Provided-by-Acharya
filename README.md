@@ -5,6 +5,7 @@
   <img src="frontend/public/simba.png" alt="HabbaHub Logo" width="800" />
 </div>
 
+
 ## Overview
 HabbaHub is a real-time event management platform designed specifically for college environments. It enables seamless organization and participation in college events, featuring live updates and interactive leaderboards.
 

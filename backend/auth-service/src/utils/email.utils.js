@@ -22,8 +22,8 @@ const createTransporter = async () => {
         port: 587,
         secure: false,
         auth: {
-          user: 'bettye.kirlin44@ethereal.email',
-          pass: 'B4dDFPzbxy7NTuWmSk'
+          user: '	gaylord.tremblay62@ethereal.email',
+          pass: 'vJcUBvSzRyQqz1JY7E'
         }
       });
 
