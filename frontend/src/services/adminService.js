@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 // Base URL for auth service (since user management is part of auth service)
-// const API_URL = 'https://HabbaHub-auth-service.onrender.com/api/admin';
-const API_URL = 'http://localhost:8001/api/admin';
+const API_URL = 'https://auth-service-69vs.onrender.com/api/admin';
+// const API_URL = 'http://localhost:8001/api/admin';
 
 // Create axios instance with default config
 const adminApi = axios.create({

@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// const API_URL = 'https://HabbaHub-notification-service.onrender.com/api/announcements';
-const API_URL = 'http://localhost:8003/api/announcements'; // Local development URL
+const API_URL = 'https://notification-service-r0ry.onrender.com/api/announcements';
+// const API_URL = 'http://localhost:8003/api/announcements'; // Local development URL
 // Create axios instance
 const announcementAPI = axios.create({
   baseURL: API_URL,

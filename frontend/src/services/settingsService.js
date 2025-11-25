@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 // Base URL for settings service through the API gateway
-// const API_URL = 'https://HabbaHub-settings-service.onrender.com/api/settings';
-const API_URL = 'http://localhost:8005/api/settings'; // Local development URL
+const API_URL = 'https://settings-service-yo2a.onrender.com/api/settings';
+// const API_URL = 'http://localhost:8005/api/settings'; // Local development URL
 
 // Create axios instance with default config
 const settingsApi = axios.create({

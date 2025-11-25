@@ -1,14 +1,14 @@
 import axios from 'axios';
 
 // Base URL for auth service
-const API_URL = 'https://auth-service-69vs.onrender.com';
+const API_URL = 'https://auth-service-69vs.onrender.com/api/auth';
 //const API_URL = 'http://localhost:8001/api/auth';
 
 // Create axios instance with default config
 const authApi = axios.create({
   baseURL: API_URL,
   headers: {
-    'Content-Type': 'application/json'
+    'Content-Type': 'application/json'S
   }
 });
 

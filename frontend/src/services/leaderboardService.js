@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 // Base URL for leaderboard service
-// const API_URL = 'https://HabbaHub-leaderboard-service.onrender.com/api/leaderboard';
-const API_URL = 'http://localhost:8004/api/leaderboard'; // Local development URL
+const API_URL = 'https://leaderboard-service-xuig.onrender.com/api/leaderboard';
+//const API_URL = 'http://localhost:8004/api/leaderboard'; // Local development URL
 // Create axios instance with default config
 const leaderboardApi = axios.create({
   baseURL: API_URL,
