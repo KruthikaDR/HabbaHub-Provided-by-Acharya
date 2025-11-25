@@ -37,7 +37,7 @@ const corsOptions = {
   origin: [
     process.env.CLIENT_URL,
     "http://localhost:5173",
-    "https://HabbaHubo.vercel.app",
+    "https://habba-hub-provided-by-acharya.vercel.app",
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],

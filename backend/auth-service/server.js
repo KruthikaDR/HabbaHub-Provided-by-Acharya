@@ -30,7 +30,7 @@ app.use(limiter);
 // Middleware
 app.use(helmet()); // Set security headers
 app.use(cors({
-  origin: [process.env.CLIENT_URL, 'http://localhost:5173', 'https://HabbaHubo.vercel.app'],
+  origin: [process.env.CLIENT_URL, 'http://localhost:5173', 'https://habba-hub-provided-by-acharya.vercel.app/login'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   credentials: true,
