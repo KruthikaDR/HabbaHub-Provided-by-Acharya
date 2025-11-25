@@ -1,9 +1,9 @@
 import axios from 'axios';
 
 // Base URL for event service
-// const API_URL = 'https://HabbaHub-event-service.onrender.com/api/events';
+// const API_URL = 'https://auth-service-69vs.onrender.com';
 
-const API_URL = 'http://localhost:8002/api/events';
+const API_URL = 'https://event-service-0k3s.onrender.com/api/v1/events';
 // Create axios instance with default config
 const eventApi = axios.create({
   baseURL: API_URL,
