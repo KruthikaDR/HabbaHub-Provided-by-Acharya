@@ -1,9 +1,9 @@
 import axios from 'axios';
 
 // Base URL for event service
-// const API_URL = 'https://localhost:8002/api/v1/events';
+// const API_URL = 'https://localhost:8002/api/events';
 
-const API_URL = 'https://event-service-0k3s.onrender.com/api/v1/events';
+const API_URL = 'https://event-service-0k3s.onrender.com/api/events';
 // Create axios instance with default config
 const eventApi = axios.create({
   baseURL: API_URL,
