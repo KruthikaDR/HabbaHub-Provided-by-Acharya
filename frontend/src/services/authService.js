@@ -8,7 +8,7 @@ const API_URL = 'https://auth-service-69vs.onrender.com/api/auth/login';
 const authApi = axios.create({
   baseURL: API_URL,
   headers: {
-    'Content-Type': 'application/json'S
+    'Content-Type': 'application/json'
   }
 });
 
